@@ -70,10 +70,10 @@ gcc main.c -o project
 
 ## Menu Options
 
-- 1. Load input file
-- 2. Print loaded data
-- 3. Sort districts (Radix Sort)
-- 4. Sort towns by population
+ 1. Load input file
+ 2. Print loaded data
+ 3. Sort districts (Radix Sort)
+ 4. Sort towns by population
 -5. Print sorted data
 -6. Add district
 -7. Add town
