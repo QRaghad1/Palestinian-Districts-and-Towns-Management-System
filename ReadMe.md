@@ -71,19 +71,19 @@ gcc main.c -o project
 ## Menu Options
 
  1. Load input file
- 2. Print loaded data
- 3. Sort districts (Radix Sort)
- 4. Sort towns by population
--5. Print sorted data
--6. Add district
--7. Add town
--8. Delete town
--9. Delete district
--10. Population statistics
--11. Show district populations
--12. Update town population
--13. Save to file
--14. Exit
+2. Print loaded data
+3. Sort districts (Radix Sort)
+4. Sort towns by population
+5. Print sorted data
+6. Add district
+7. Add town
+8. Delete town
+9. Delete district
+10. Population statistics
+11. Show district populations
+12. Update town population
+13. Save to file
+14. Exit
 
 ## Author
 -Raghad
