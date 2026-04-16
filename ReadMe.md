@@ -84,11 +84,7 @@ gcc main.c -o project
 12. Update town population
 13. Save to file
 14. Exit
-
-## Author
--Raghad
--Computer Engineering Student 
-
+ 
 ## Notes
 - The project uses manual memory management (malloc/free).
 - Designed for educational purposes.
@@ -100,3 +96,7 @@ gcc main.c -o project
 - Convert to database system
 - Improve memory safety
 - Optimize radix sort implementation
+
+  ## Author
+- Raghad
+- Computer Engineering Student
