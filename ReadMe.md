@@ -98,5 +98,4 @@ gcc main.c -o project
 - Optimize radix sort implementation
 
   ## Author
-- Raghad
-- Computer Engineering Student
+- Raghad - Computer Engineering Student
